@@ -1,0 +1,33 @@
+Minecraft server files
+
+Windows-Setup/server/
+Raspberry-Pi-Setup/server/
+
+Minecraft worlds
+
+world/
+world_nether/
+world_the_end/
+
+Logs
+
+logs/
+*.log
+
+Minecraft server runtime files
+
+banned-ips.json
+banned-players.json
+ops.json
+usercache.json
+whitelist.json
+
+Python cache
+
+**pycache**/
+*.pyc
+
+IDE files
+
+.vscode/
+.idea/
